@@ -7,4 +7,5 @@
 | 3 | Count Tree Paths With Limited Max ... | Hard | JavaScript | Tree | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Hard/tree/possible-paths-141628) | 03-11-26 |
 | 4 | XOR of All Subarray XORs | Medium | JavaScript | Bit Manipulation | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/bit-manipulation/game-of-xor1541) | 04-11-26 |
 | 5 | Minimum Days | Medium | JavaScript | String | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/string/minimum-days-170646) | 05-11-26 |
-| 6 | Balanced Binary Tree Counter | Easy | JavaScript | Tree | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/tree/bbt-counter4914) | 07-11-26 |
+| 6 | Balanced Binary Tree Counter | Easy | JavaScript | Tree | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/tree/bbt-counter4914) | 06-11-26 |
+| 7 | Generate Usernames | Easy | JavaScript | String | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/string/new-registration-system-150419) | 07-11-26 |
