@@ -11,3 +11,4 @@
 | 7 | Generate Usernames | Easy | JavaScript | String | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/string/new-registration-system-150419) | 07-11-26 |
 | 8 | Minimum Time with 2 Scanners | Easy | JavaScript | Binary Search | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/binary-search/find-the-minimum-time0253) | 08-11-26 |
 | 9 | Count Group Occurrences | Easy | JavaScript | String | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/string/count-the-characters1821) | 09-11-26 |
+| 10 | At Least K Occurrences | Easy | JavaScript | Hashing | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/hashing/first-element-to-occur-k-times5150) | 10-11-26 |
