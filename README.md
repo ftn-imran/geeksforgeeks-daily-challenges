@@ -13,3 +13,4 @@
 | 9 | Count Group Occurrences | Easy | JavaScript | String | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/string/count-the-characters1821) | 09-11-26 |
 | 10 | At Least K Occurrences | Easy | JavaScript | Hashing | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/hashing/first-element-to-occur-k-times5150) | 10-11-26 |
 | 11 | Any Duplicate Within K Distance | Easy | JavaScript | Hashing | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/hashing/kth-distance3757) | 11-11-26 |
+| 12 | Closest in BST | Medium | JavaScript | BST | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/bst/find-the-closest-element-in-bst) | 12-11-26 |
