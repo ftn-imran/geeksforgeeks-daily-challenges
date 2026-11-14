@@ -15,3 +15,4 @@
 | 11 | Any Duplicate Within K Distance | Easy | JavaScript | Hashing | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/hashing/kth-distance3757) | 11-11-26 |
 | 12 | Closest in BST | Medium | JavaScript | BST | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/bst/find-the-closest-element-in-bst) | 12-11-26 |
 | 13 | Common Nodes in Two BSTs | Medium | JavaScript | BST | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/bst/print-common-nodes-in-bst) | 13-11-26 |
+| 14 | Max Equal Sum in 3 Stacks | Medium | JavaScript | Greedy | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/greedy/find-maximum-equal-sum-of-three-stacks) | 14-11-26 |
