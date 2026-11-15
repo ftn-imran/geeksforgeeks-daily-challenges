@@ -16,3 +16,4 @@
 | 12 | Closest in BST | Medium | JavaScript | BST | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/bst/find-the-closest-element-in-bst) | 12-11-26 |
 | 13 | Common Nodes in Two BSTs | Medium | JavaScript | BST | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/bst/print-common-nodes-in-bst) | 13-11-26 |
 | 14 | Max Equal Sum in 3 Stacks | Medium | JavaScript | Greedy | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/greedy/find-maximum-equal-sum-of-three-stacks) | 14-11-26 |
+| 15 | Sum of All Digit Subsequences | Easy | JavaScript | String | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/string/sum-of-all-sub-sequences-of-a-number3437) | 15-11-26 |
