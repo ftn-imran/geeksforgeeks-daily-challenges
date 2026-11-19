@@ -19,4 +19,5 @@
 | 15 | Sum of All Digit Subsequences | Easy | JavaScript | String | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/string/sum-of-all-sub-sequences-of-a-number3437) | 15-11-26 |
 | 16 | K-th Missing in Natural Numbers | Medium | JavaScript | Sorting | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/sorting/k-th-missing-element-in-natural-numbers) | 16-11-26 |
 | 17 | Repeated Pattern Check | Easy | JavaScript | String | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/string/the-pattern-matcher) | 17-11-26 |
-| 18 | XOR of Number Range | Easy | JavaScript | Bit Manipulation | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/bit-manipulation/find-xor-of-numbers-from-l-to-r) | 18-11-26 |
+| 18 | XOR of Number Range | Easy | JavaScript | Bit Manipu... | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/bit-manipulation/find-xor-of-numbers-from-l-to-r) | 18-11-26 |
+| 19 | Sort in Specific Order | Medium | JavaScript | Sorting | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/sorting/sort-in-specific-order2422) | 19-11-26 |
