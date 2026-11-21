@@ -22,3 +22,4 @@
 | 18 | XOR of Number Range | Easy | JavaScript | Bit Manipu... | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/bit-manipulation/find-xor-of-numbers-from-l-to-r) | 18-11-26 |
 | 19 | Sort in Specific Order | Medium | JavaScript | Sorting | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/sorting/sort-in-specific-order2422) | 19-11-26 |
 | 20 | Min Flips for Alternate | Easy | JavaScript | String | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/string/min-number-of-flips3210) | 20-11-26 |
+| 21 | Smallest Subarray Sum Greater Than x | Easy | JavaScript | Array | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/array/smallest-subarray-with-sum-greater-than-x5651) | 21-11-26 |
