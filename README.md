@@ -23,3 +23,4 @@
 | 19 | Sort in Specific Order | Medium | JavaScript | Sorting | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/sorting/sort-in-specific-order2422) | 19-11-26 |
 | 20 | Min Flips for Alternate | Easy | JavaScript | String | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/string/min-number-of-flips3210) | 20-11-26 |
 | 21 | Smallest Subarray Sum Greater Than x | Easy | JavaScript | Array | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/array/smallest-subarray-with-sum-greater-than-x5651) | 21-11-26 |
+| 22 | Longest Subarray Sum Divisible by K | Medium | JavaScript | Prefix Sum | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/prefix-sum/longest-subarray-with-sum-divisible-by-k1259) | 22-11-26 |
