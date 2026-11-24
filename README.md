@@ -25,3 +25,4 @@
 | 21 | Smallest Subarray Sum Greater Than x | Easy | JavaScript | Array | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/array/smallest-subarray-with-sum-greater-than-x5651) | 21-11-26 |
 | 22 | Longest Subarray Sum Divisible by K | Medium | JavaScript | Prefix Sum | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/prefix-sum/longest-subarray-with-sum-divisible-by-k1259) | 22-11-26 |
 | 23 | Character at Position in Infinite ... | Medium | JavaScript | Backtracking | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/backtracking/the-infinite-string1049) | 23-11-26 |
+| 24 | Two Pairs with Same Sum | Medium | JavaScript | Hashing | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/hashing/satisfy-the-equation5847) | 24-11-26 |
