@@ -28,3 +28,4 @@
 | 24 | Two Pairs with Same Sum | Medium | JavaScript | Hashing | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/hashing/satisfy-the-equation5847) | 24-11-26 |
 | 25 | Geek's Destination with Special Jump | Hard | JavaScript | Prefix Sum | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Hard/prefix-sum/geek-and-her-destination-145724) | 25-11-26 |
 | 26 | Range Vowel Count Queries | Medium | JavaScript | Prefix Sum | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Medium/prefix-sum/range-vowel-count-queries-static) | 26-11-26 |
+| 27 | Count Edges in Graph | Easy | JavaScript | Graph | [Link](https://github.com/ftn-imran/geeksforgeeks-daily-challenges/tree/main/Easy/graph/count-number-of-edges-in-an-undirected-graph) | 27-11-26 |
